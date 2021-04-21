@@ -1,0 +1,11 @@
+## Interface: 90002
+## Title: Floating Fishing Button
+## Notes: Making mousing less and fishing more
+## Author: Created by Jot
+## eMail: N/A
+## URL: N/A
+## Version: 1
+## Dependencies:
+## SavedVariablesPerCharacter: FFB_Conf
+
+FloatingFishingButton.lua
